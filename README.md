@@ -1,2 +1,2 @@
 # pysimpleGUI
-Repositorio para trabajaron la librería pysimpleGUI
+Repositorio para trabajar con la librería pysimpleGUI
