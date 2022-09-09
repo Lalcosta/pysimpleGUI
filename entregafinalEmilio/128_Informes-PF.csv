@@ -1,5 +1,5 @@
-ID,Fecha,Year,Municipio,clave_municipio,Estado,clave_estado,Tipo de documento,clave_tipo_de_documento,Tipo de evento,clave_tipo_de_evento,Heridos autoridades,Muertos_autoridades,Detenidos,Heridos_delincuencia,Muertos_delincuencia,Heridos_civiles,Muertos_civiles,Policía Federal,Sedena,Semar,PGR,Policia_Estatal,Policia_Municipal,AFI,Estado_mayor
-1,07/06/2006,2006,Ecatepec,15033,Estado_de_Mexico,15,Parte_informativo_de_servicios,26,Servicio_de_inspeccion_seguridad_verificación_vigilancia_prevención_del_delito_y_combate_a_la_delincuencia,13,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+ID,Fecha,Year,Municipio,clave_municipio,Estado,clave_estado,Tipo de documento,clave_tipo_de_documento,Tipo de evento,clave_tipo_de_evento,Heridos autoridades,Muertos_autoridades,Detenidos,Heridos_delincuencia,Muertos_delincuencia,Heridos_civiles,Muertos_civiles,Policï¿½a Federal,Sedena,Semar,PGR,Policia_Estatal,Policia_Municipal,AFI,Estado_mayor
+1,07/06/2006,2006,Ecatepec,15033,Estado_de_Mexico,15,Parte_informativo_de_servicios,26,Servicio_de_inspeccion_seguridad_verificacion_vigilancia_prevenciï¿½n_del_delito_y_combate_a_la_delincuencia,13,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 2,1/21/2007,2007,Tijuana,2004,Baja_California,2,Informe,15,Operativo_Mexico-Tijuana,7,0,0,4,1,0,0,0,1,0,0,0,0,0,1,0
 3,02/02/2007,2007,Tlalnepantla,15104,Estado_de_Mexico,15,Parte_informativo_de_servicios,26,Enfrentamiento,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 4,3/14/2008,2008,Culiacan,25006,Sinaloa,25,Informe,15,Enfrentamiento,4,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
